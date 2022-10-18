@@ -25,4 +25,4 @@ tamanho dos campos de textos e textos e definição de estado para o funcionamen
   
   $ Ter um celular Android, juntamente com um cabo USB, para emular o aplicativo pelo Android Studio 
   
-  $ Adicionar nos guias do Android 3 vezes, eu sou desenvolvedor, com a intenção de conseguir rodar o projeto de contador
+  $ Adicionar nos guias do Android 3 vezes, eu sou desenvolvedor, com a intenção de conseguir rodar o projeto do Imc
